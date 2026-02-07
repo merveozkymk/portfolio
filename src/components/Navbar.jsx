@@ -62,9 +62,7 @@ const Navbar = () => {
         <nav className="fixed top-0 left-0 right-0 z-50 bg-white/80 dark:bg-background-dark/80 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 transition-colors duration-300">
             <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
                 <div className="flex items-center space-x-3 group cursor-pointer">
-                    <div className="w-10 h-10 bg-primary group-hover:bg-primary-deep transition-colors rounded-full flex items-center justify-center text-white">
-                        <span className="material-symbols-outlined">code</span>
-                    </div>
+                    <img src="images/logo.png" alt="Logo" className="w-10 h-10 object-contain" />
                     <span className="font-display font-bold text-xl tracking-tight text-slate-900 dark:text-white">Merve Özkaymak</span>
                 </div>
                 <div className="hidden md:flex items-center space-x-8">
