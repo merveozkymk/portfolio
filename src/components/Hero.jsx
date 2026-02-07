@@ -43,7 +43,7 @@ const Hero = () => {
                         }`}
                 >
                     <div className="aspect-square rounded-full overflow-hidden border-8 border-white dark:border-slate-700 shadow-xl mb-8 transition-all duration-300">
-                        <img src="public/images/profile.jpg" alt="Merve Özkaymak Profile" className="w-full h-full object-cover" />
+                        <img src="images/profile.jpg" alt="Merve Özkaymak Profile" className="w-full h-full object-cover" />
                     </div>
                     <div className="text-center">
                         <h2 className="font-display text-2xl font-bold text-slate-800 dark:text-white uppercase tracking-wider transition-colors duration-300">Merve ÖZKAYMAK</h2>

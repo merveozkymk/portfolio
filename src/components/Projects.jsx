@@ -48,10 +48,10 @@ const Projects = () => {
             desc: "Genç yaşlara geri dönüşümü teşvik eden sosyal medya uygulaması, Teknofest Projesi.",
             details: "Teknofest yarışması için geliştirilen proje, gençlerin geri dönüşüm alışkanlıklarını kazanmalarını sağlamak amacıyla geliştirilmiştir. Kullanıcılar geri dönüştürdükleri atıkların fotoğraflarını çekip paylaşarak puan kazanabilir, arkadaşlarıyla yarışabilir ve çevre bilinci oluşturabilirler. React Native ile geliştirilen mobil uygulama, Node.js ve MongoDB backend'i ile desteklenmektedir.",
             tags: ["React Natıve", "Node.js", "MongoDB"],
-            img: "public/images/recycleApp.png",
+            img: "images/recycleApp.png",
             images: [
-                "public/images/recycleApp.png",
-                "public/images/recycleApp.png" // Placeholder until user adds more
+                "images/recycleApp.png",
+                "images/recycleApp.png" // Placeholder until user adds more
             ],
             github: "#",
             demo: "#"
@@ -61,8 +61,8 @@ const Projects = () => {
             desc: "Fullstack modern web sitesi.",
             details: "Kullanıcıların günlük görevlerini organize etmelerine yardımcı olan kapsamlı bir yönetim paneli. Sürükle-bırak (Drag & Drop) özelliği, kategorizasyon ve önceliklendirme gibi özellikler içerir. Güvenli kimlik doğrulama ve veritabanı yönetimi ile tam teşekküllü bir çözümdür.",
             tags: ["React", "Node.js", "MySQL", "Tailwind CSS"],
-            img: "public/images/taskApp.png",
-            images: ["public/images/taskApp.png"],
+            img: "images/taskApp.png",
+            images: ["images/taskApp.png"],
             github: "#",
             demo: "#"
         },
@@ -71,8 +71,8 @@ const Projects = () => {
             desc: "İstanbul trafik veri kümeleri üzerinde veri kümeleme işlemi gerçekleştirilmesi ve yoğunluk bölgelerinin modellenmesi",
             details: "İstanbul Büyükşehir Belediyesi'nin açık veri portalından alınan trafik verileri kullanılarak, K-Means kümeleme algoritması ile yoğunluk analizi yapılmıştır. Python kütüphaneleri kullanılarak veriler görselleştirilmiş ve trafik yoğunluğunun saatlere ve bölgelere göre değişimi raporlanmıştır.",
             tags: ["Python", "K-Means", "matplotlib", "seaborn"],
-            img: "public/images/trafficApp.png",
-            images: ["public/images/trafficApp.png"],
+            img: "images/trafficApp.png",
+            images: ["images/trafficApp.png"],
             github: "#",
             demo: "#"
         },
@@ -81,8 +81,8 @@ const Projects = () => {
             desc: "Portfolyo sitesi.",
             details: "Kişisel projelerimi ve yeteneklerimi sergilediğim modern, responsive ve estetik bir portfolyo web sitesi. React ve Tailwind CSS kullanılarak geliştirildi, karanlık mod desteği ve yumuşak geçiş efektleri içeriyor.",
             tags: ["React", "Tailwind CSS", "Framer Motion"],
-            img: "public/images/portfolio.png",
-            images: ["public/images/portfolio.png"],
+            img: "images/portfolio.png",
+            images: ["images/portfolio.png"],
             github: "#",
             demo: "#"
         },
@@ -91,8 +91,8 @@ const Projects = () => {
             desc: "Unity ile geliştirilen 2d bayrak yakalama oyunu",
             details: "Unity oyun motoru ve C# dili kullanılarak geliştirilen 2D platform oyunu. Oyuncular, engelleri aşarak ve düşmanlardan kaçarak bayrağı ele geçirmeye çalışırlar. Fizik tabanlı bulmacalar ve akıcı kontrol mekanikleri içerir.",
             tags: ["Unity", "C#"],
-            img: "public/images/flagGame.png",
-            images: ["public/images/flagGame.png"],
+            img: "images/flagGame.png",
+            images: ["images/flagGame.png"],
             github: "#",
             demo: "#"
         }
