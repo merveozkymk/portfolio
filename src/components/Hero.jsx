@@ -90,7 +90,7 @@ const Hero = () => {
                         </p>
                     </div>
                     <div className="mt-10 flex flex-wrap gap-4">
-                        <a href="public/cv.pdf" download className="inline-flex items-center px-8 py-3 bg-primary hover:bg-primary-deep text-white font-bold rounded-lg transition-all shadow-lg shadow-primary/20">
+                        <a href="cv.pdf" download className="inline-flex items-center px-8 py-3 bg-primary hover:bg-primary-deep text-white font-bold rounded-lg transition-all shadow-lg shadow-primary/20">
                             CV İndir
                             <span className="material-symbols-outlined ml-2">download</span>
                         </a>
