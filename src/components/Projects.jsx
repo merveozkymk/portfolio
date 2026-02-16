@@ -48,9 +48,9 @@ const Projects = () => {
             desc: "Genç yaşlara geri dönüşümü teşvik eden sosyal medya uygulaması, Teknofest Projesi.",
             details: "Teknofest yarışması için geliştirilen proje, gençlerin geri dönüşüm alışkanlıklarını kazanmalarını sağlamak amacıyla geliştirilmiştir. Kullanıcılar geri dönüştürdükleri atıkların fotoğraflarını çekip paylaşarak puan kazanabilir, arkadaşlarıyla yarışabilir ve çevre bilinci oluşturabilirler. React Native ile geliştirilen mobil uygulama, Node.js ve MongoDB backend'i ile desteklenmektedir.",
             tags: ["React Natıve", "Node.js", "MongoDB"],
-            img: "images/recycleApp.png",
+            img: "images/recycleApp_v2.png",
             images: [
-                "images/recycleApp.png",
+                "images/recycleApp_v2.png",
             ],
             github: "#",
             demo: "#"
