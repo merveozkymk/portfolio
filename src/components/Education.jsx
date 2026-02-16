@@ -53,7 +53,7 @@ const Education = () => {
                                         <h3 className="text-lg font-bold text-slate-800 dark:text-white">Bilgisayar Mühendisliği</h3>
                                     </div>
                                     <p className="text-primary font-semibold mb-2">İstanbul Üniversitesi Cerrahpaşa</p>
-                                    <p className="text-slate-600 dark:text-slate-400 text-sm">Ortalama: 3.67 / 4.00 </p>
+                                    <p className="text-slate-600 dark:text-slate-400 text-sm">Ortalama: 3.72 / 4.00 </p>
                                     <p className="text-slate-600 dark:text-slate-400 text-sm">2022-2023 İngilizce Hazırlık</p>
                                 </div>
                             </div>

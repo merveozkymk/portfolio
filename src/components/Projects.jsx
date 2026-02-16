@@ -51,7 +51,6 @@ const Projects = () => {
             img: "images/recycleApp.png",
             images: [
                 "images/recycleApp.png",
-                "images/recycleApp.png" // Placeholder until user adds more
             ],
             github: "#",
             demo: "#"
@@ -59,11 +58,11 @@ const Projects = () => {
         {
             title: "Görev Yönetim Sistemi",
             desc: "Fullstack modern web sitesi.",
-            details: "Kullanıcıların günlük görevlerini organize etmelerine yardımcı olan kapsamlı bir yönetim paneli. Sürükle-bırak (Drag & Drop) özelliği, kategorizasyon ve önceliklendirme gibi özellikler içerir. Güvenli kimlik doğrulama ve veritabanı yönetimi ile tam teşekküllü bir çözümdür.",
+            details: "Kullanıcıların günlük görevlerini organize etmelerine yardımcı olan kapsamlı bir yönetim paneli. Kategorizasyon ve önceliklendirme gibi özellikler içerir. Güvenli kimlik doğrulama ve veritabanı yönetimi ile tam teşekküllü bir çözümdür.",
             tags: ["React", "Node.js", "MySQL", "Tailwind CSS"],
             img: "images/taskApp.png",
-            images: ["images/taskApp.png"],
-            github: "#",
+            images: ["images/taskApp.png", "images/taskApp2.png", "images/taskApp3.png", "images/taskApp4.png", "images/taskApp5.png", "images/taskApp6.png", "images/taskApp7.png"],
+            github: "https://github.com/merveozkymk/metm-app",
             demo: "#"
         },
         {
@@ -72,8 +71,8 @@ const Projects = () => {
             details: "İstanbul Büyükşehir Belediyesi'nin açık veri portalından alınan trafik verileri kullanılarak, K-Means kümeleme algoritması ile yoğunluk analizi yapılmıştır. Python kütüphaneleri kullanılarak veriler görselleştirilmiş ve trafik yoğunluğunun saatlere ve bölgelere göre değişimi raporlanmıştır.",
             tags: ["Python", "K-Means", "matplotlib", "seaborn"],
             img: "images/trafficApp.png",
-            images: ["images/trafficApp.png"],
-            github: "#",
+            images: ["images/trafficApp.png", "images/trafficApp2.png", "images/trafficApp3.png"],
+            github: "https://github.com/merveozkymk/traffic-clustering",
             demo: "#"
         },
         {
@@ -81,10 +80,10 @@ const Projects = () => {
             desc: "Portfolyo sitesi.",
             details: "Kişisel projelerimi ve yeteneklerimi sergilediğim modern, responsive ve estetik bir portfolyo web sitesi. React ve Tailwind CSS kullanılarak geliştirildi, karanlık mod desteği ve yumuşak geçiş efektleri içeriyor.",
             tags: ["React", "Tailwind CSS", "Framer Motion"],
-            img: "images/portfolio.png",
-            images: ["images/portfolio.png"],
-            github: "#",
-            demo: "#"
+            img: "images/portfolioApp.png",
+            images: ["images/portfolioApp.png", "images/portfolioApp2.png"],
+            github: "https://github.com/merveozkymk/portfolio",
+            demo: "https://merveozkymk.github.io/portfolio/"
         },
         {
             title: "Bayrak Oyunu",
@@ -92,9 +91,9 @@ const Projects = () => {
             details: "Unity oyun motoru ve C# dili kullanılarak geliştirilen 2D platform oyunu. Oyuncular, engelleri aşarak ve düşmanlardan kaçarak bayrağı ele geçirmeye çalışırlar. Fizik tabanlı bulmacalar ve akıcı kontrol mekanikleri içerir.",
             tags: ["Unity", "C#"],
             img: "images/flagGame.png",
-            images: ["images/flagGame.png"],
-            github: "#",
-            demo: "#"
+            images: ["images/flagGame.png", "images/flagGame2.png", "images/flagGame3.png"],
+            github: "https://github.com/merveozkymk/FlagWar",
+            demo: "https://merveoz.itch.io/flag-war"
         }
     ];
 
